@@ -10,7 +10,8 @@ I jobbkonfig under "Pipeline", velg "Pipeline script from SCM", SCM: Git, Reposi
 
 Kjør Jenkinsjobben og verifiser at den fungerer ved å trykke på jobben og velge "Console Output". Du ønsker output som ser ca slik ut: 
 
-_[oving1Pipeline] Running shell script_ \n _
+_[oving1Pipeline] Running shell script_ 
+
 \+_echo Hello World_
 _Hello World_
 
