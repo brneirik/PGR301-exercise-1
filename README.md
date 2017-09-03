@@ -13,6 +13,7 @@ Kjør Jenkinsjobben og verifiser at den fungerer ved å trykke på jobben og vel
 _[oving1Pipeline] Running shell script_ 
 
 \+_echo Hello World_
+
 _Hello World_
 
 
