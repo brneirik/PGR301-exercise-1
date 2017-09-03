@@ -8,5 +8,11 @@ I jenkins, trykk "New Item" -> "Pipeline" -> "OK"
 
 I jobbkonfig under "Pipeline", velg "Pipeline script from SCM", SCM: Git, Repository URL: <link til github>, Credentials: None. Script Path: Jenkinsfile (med mindre du har kalt din Jenkinsfile noe annet). Velg "Save."
 
+Kjør Jenkinsjobben og verifiser at den fungerer ved å trykke på jobben og velge "Console Output". Du ønsker output som ser ca slik ut: 
+
+[oving1Pipeline] Running shell script
++ echo Hello World
+Hello World
+
 
 
